@@ -1,0 +1,40 @@
+
+
+
+body{
+
+
+color:black;
+background-color:#4c533a
+font-size:30pt;
+font-family:arial;
+padding :0pt 300pt
+
+}
+
+h1{
+color: #7d8981 ;
+text-align: center;
+}
+
+.NavBar {
+/*    background-color: #821733;*/
+    overflow: hidden;
+    font-size:14pt;
+    font-family:arial;
+
+}
+
+.NavBar a {
+	float: right;
+	color:green
+    overflow: hidden;
+    padding: 15px 15px;
+    text-decoration:none;
+
+}
+
+.NavBar a:hover {
+    background-color: #ddd;
+    color: black;
+}
