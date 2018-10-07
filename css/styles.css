@@ -8,13 +8,20 @@ color:black;
 background-color:#4c533a
 font-size:30pt;
 font-family:arial;
-padding :0pt 300pt
+/*padding :0pt 300pt*/
+max-width:50%;
+margin:auto;
 
 }
 
 h1{
 color: #7d8981 ;
-text-align: center;
+text-align: left;
+}
+
+h2{
+color: #7d8981 ;
+text-align: left;
 }
 
 .NavBar {
@@ -27,7 +34,7 @@ text-align: center;
 
 .NavBar a {
 	float: right;
-	color:green
+	color:blue
     overflow: hidden;
     padding: 15px 15px;
     text-decoration:none;
