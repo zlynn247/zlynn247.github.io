@@ -15,12 +15,12 @@ margin:auto;
 }
 
 h1{
-color: #7d8981 ;
+color: #0a0751 ;
 text-align: left;
 }
 
 h2{
-color: #7d8981 ;
+color: #0a0751 ;
 text-align: left;
 }
 
@@ -34,7 +34,7 @@ text-align: left;
 
 .NavBar a {
 	float: right;
-	color:blue
+	color:#217cf7
     overflow: hidden;
     padding: 15px 15px;
     text-decoration:none;
